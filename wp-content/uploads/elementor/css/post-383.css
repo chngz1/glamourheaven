@@ -1,0 +1,42 @@
+.elementor-383 .elementor-element.elementor-element-e94f08d > .elementor-container{max-width:1677px;}.elementor-383 .elementor-element.elementor-element-e94f08d{margin-top:10px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-383 .elementor-element.elementor-element-170b99d .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-383 .elementor-element.elementor-element-170b99d .entry-title a{color:var( --e-global-color-25d1b771 );font-size:20px;font-weight:bold;text-transform:uppercase;line-height:1.3em;}.elementor-383 .elementor-element.elementor-element-170b99d .entry-info a, .elementor-383 .elementor-element.elementor-element-170b99d .entry-info{color:var( --e-global-color-3133e202 );}.elementor-383 .elementor-element.elementor-element-170b99d .entry-info, .elementor-383 .elementor-element.elementor-element-170b99d .entry-info a{font-size:14px;font-weight:500;line-height:1.4em;letter-spacing:3.5px;}.elementor-383 .elementor-element.elementor-element-170b99d .entry-info{margin-bottom:10px;}.elementor-383 .elementor-element.elementor-element-170b99d .type-post .entry-main{padding:9% 10% 8% 13%;}.elementor-383 .elementor-element.elementor-element-170b99d{text-align:left;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-383 .elementor-element.elementor-element-170b99d > .elementor-widget-container{margin:47px 0px 0px 0px;}@media(max-width:1024px){.elementor-383 .elementor-element.elementor-element-170b99d .entry-title a{font-size:17px;line-height:1.3em;}.elementor-383 .elementor-element.elementor-element-170b99d .entry-info, .elementor-383 .elementor-element.elementor-element-170b99d .entry-info a{letter-spacing:0px;}.elementor-383 .elementor-element.elementor-element-170b99d .type-post .entry-main{padding:17px 17px 17px 17px;}}@media(max-width:767px){.elementor-383 .elementor-element.elementor-element-e94f08d{margin-top:50px;margin-bottom:0px;}.elementor-383 .elementor-element.elementor-element-170b99d > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-170b99d */.elementor-383 .elementor-element.elementor-element-170b99d .entry-title{
+    max-width: 288px;
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .entry-main{
+    position: absolute;
+    bottom: 65px;
+    left: 0;
+    right: 0;
+    background-color: var(--e-global-color-47badb46);
+    margin-left: 38px;
+    margin-right: 38px;
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col .entry-main,  .elementor-383 .elementor-element.elementor-element-170b99d .entry-media{
+  transition: all 0.3s;
+  border-radius: 20px;
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col:hover .entry-title a{
+  color: var(--e-global-color-47badb46);
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col:hover .entry-date a, .elementor-383 .elementor-element.elementor-element-170b99d .aux-col:hover .post-edit-link{
+color:rgba(255, 255, 255, 0.60);
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col:hover  .entry-main{
+    background-color: var(--e-global-color-25d1b771);
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col:hover .entry-media{
+box-shadow:0 30px 40px #00000033!important;
+}
+@media only screen and (max-width: 1025px) {
+.elementor-383 .elementor-element.elementor-element-170b99d .entry-main{
+    margin-left: 12px;
+    margin-right: 12px;
+    bottom: 35px;
+}}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-match-height .aux-col{
+ margin-bottom: 7px!important;
+}
+.elementor-383 .elementor-element.elementor-element-170b99d .aux-col {
+    margin-bottom: 7px!important;
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}/* End custom CSS */
